@@ -18,7 +18,5 @@ Este repositorio contiene una serie de ejercicios para practicar programación f
 ### Funciones de Orden Superior
 1. **Aplicar función personalizada:** Escribe una función de orden superior llamada `aplicarFuncion` que acepte un número entero y una función como parámetros. Usa esta función para aplicar una operación de resta y una de división utilizando lambdas.
 2. **Crear divisor:** Define una función de orden superior llamada `crearDivisor` que reciba un número entero y devuelva una función que divida cualquier número por el entero recibido. Prueba con divisores de 2 y 4.
-3. **Transformar lista:** Escribe una función de orden superior llamada `transformarLista` que reciba una lista de enteros y una función para transformar cada elemento. Prueba con transformaciones como restar 1 a cada número o calcular su valor absoluto.
-4. **Filtrar lista personalizada:** Crea una función de orden superior llamada `filtrarLista` que reciba una lista de enteros y una función de filtro. Prueba con filtros como eliminar los números negativos o conservar solo los pares.
-5. **Aplicar múltiples funciones:** Define una función de orden superior llamada `aplicarMultiplesFunciones` que reciba un número entero y una lista de funciones. Aplica todas las funciones al número y devuelve el resultado final.
+
 
