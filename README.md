@@ -5,8 +5,7 @@ Este repositorio contiene una serie de ejercicios para practicar programación f
 ### Funciones Lambda
 1. **Suma de tres números:** Declara una lambda que acepte tres parámetros de tipo `Int` y devuelva su suma. Llama a esta función con los números 3, 7 y 12, e imprime el resultado.
 2. **Multiplicación de cadenas:** Crea una lambda que tome una cadena (String) y un número entero como entrada, y repita la cadena ese número de veces. Prueba tu lambda con la cadena "Kotlin" y el número 3.
-3. **Filtrar positivos:** Define una lambda que reciba una lista de enteros y devuelva una nueva lista que contenga solo los números positivos. Usa esta lambda con la lista `listOf(-2, 4, -5, 6, -1, 7)`.
-4. **Invertir cadenas:** Escribe una lambda que tome una cadena como entrada y devuelva la cadena invertida. Prueba la lambda con las cadenas "Funcional" y "Lambda".
+3. **Invertir cadenas:** Escribe una lambda que tome una cadena como entrada y devuelva la cadena invertida. Prueba la lambda con las cadenas "Funcional" y "Lambda".
 5. **Calcular el área de un triángulo:** Define una lambda que reciba la base y la altura de un triángulo, y devuelva su área. Prueba la lambda con una base de 4 y una altura de 6.
 
 ### Funciones Anónimas
